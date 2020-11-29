@@ -1,0 +1,11 @@
+{
+  "tapp.main.title.login": "Login",
+  "tapp.main.menu.news": "News",
+  "tapp.main.menu.examples": "Examples",
+  "tapp.main.menu.logout": "Logout",
+  "tapp.main.menu.settings": "Settings",
+  "tapp.main.menu.membership": "Membership",
+  "tapp.main.menu.profile": "Profile",
+  "tapp.main.title.long": "Tenis app",
+  "tapp.main.title.short": "Tenis app"
+}
