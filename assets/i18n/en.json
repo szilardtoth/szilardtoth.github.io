@@ -14,5 +14,12 @@
   "tra.about.dorian.title": "Dorian Vinceller",
   "tra.about.dorian.content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
   "tra.about.szilard.title": "Szilárd Toth",
-  "tra.about.szilard.content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat."
+  "tra.about.szilard.content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+  "tra.contact.name": "your name",
+  "tra.contact.email": "your e-mail",
+  "tra.contact.message": "your message",
+  "tra.contact.send.email": "Send",
+  "tra.contact.address": "Onisifor Ghibu, n. 1\nCluj-Napoca",
+  "tra.contact.mail": "info@transilvania-analytics.com",
+  "tra.contact.get.in.touch": "Get in touch"
 }

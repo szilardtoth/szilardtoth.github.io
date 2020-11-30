@@ -1,1 +1,0 @@
-# szilardtoth.github.io
