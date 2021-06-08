@@ -14,6 +14,8 @@
   "tra.about.marius.content": "Marius Dragomiroiu is a software engineer with over 20 years experience in the IT sector.  He worked as developer, business analyst, consultant in a wide range of projects.",
   "tra.about.dorian.title": "Dorian Vinceller",
   "tra.about.dorian.content": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.",
+  "tra.about.alex.title": "Alex Stanciu",
+  "tra.about.alex.content": "Alex Stanciu is a software developer  experienced in mobile app development. He is passionate about 3D printing and beer brewing/drinking.",
   "tra.about.szilard.title": "Szilárd Toth",
   "tra.about.szilard.content": "Szilárd Toth is a software developer, experienced in web development. He  is  passionate  about Javascript frameworks, libraries and front-end architecture.  ",
   "tra.contact.name": "your name",
@@ -23,6 +25,8 @@
   "tra.contact.email.invalid": "your e-mail invalid",
   "tra.contact.message": "your message",
   "tra.contact.message.required": "your message required",
+  "tra.contact.message.required.length": "min 10 characters required",
+  "tra.contact.captcha.required": "missing or invalid captcha",
   "tra.contact.send.email": "Send",
   "tra.contact.address": "Onisifor Ghibu, n. 1\nCluj-Napoca",
   "tra.contact.mail": "info@transilvania-analytics.com",
@@ -30,6 +34,10 @@
   "tra.projects.our.works": "Our Works",
   "tra.projects.player.name": "TSuite Player Application",
   "tra.projects.player.description": "A mobile application designed to optimize players experience on and off the court. Some key features: match, tournament and community league creation, court.",
+  "tra.projects.player.download": "Coming soon on ",
   "tra.projects.web.name": "TSuite Club Application",
-  "tra.projects.web.description": "A browser based application designed to optimize the day-to-day activities of a tennis club. It keeps the club connected to the player, increases its visibility and it helps in building a larger tennis community around the club.  Some key features:  a competitive system for court reservations and subscriptions; club-player communications through in-app notifications; a state-of-the art membership management system and a club visibility module (news feeds, marketplace, etc)."
+  "tra.projects.web.description": "A browser based application designed to optimize the day-to-day activities of a tennis club. It keeps the club connected to the player, increases its visibility and it helps in building a larger tennis community around the club.  Some key features:  a competitive system for court reservations and subscriptions; club-player communications through in-app notifications; a state-of-the art membership management system and a club visibility module (news, feeds, marketplace, etc).",
+  "tra.projects.club.register": "Keep your club connected to players!",
+  "tra.projects.club.download": "Coming soon",
+  "tra.contact.terms": "By clicking on <b>Send</b>, you agree to our <a href='#'>Terms and Conditions</a> and  <a href='#'>Cookie Consent.</a>"
 }
